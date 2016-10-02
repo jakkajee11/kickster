@@ -1,0 +1,9 @@
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\WebApiHttpClient.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\WebApiHttpClient.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\RestSharp.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\bin\Debug\RestSharp.xml
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\obj\Debug\WebApiHttpClient.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\obj\Debug\WebApiHttpClient.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\WebApiHttpClient\obj\Debug\WebApiHttpClient.csprojResolveAssemblyReference.cache

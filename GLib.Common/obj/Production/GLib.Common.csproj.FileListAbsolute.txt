@@ -1,0 +1,5 @@
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Common\bin\Production\GLib.Common.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Common\bin\Production\GLib.Common.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Common\obj\Production\GLib.Common.csprojResolveAssemblyReference.cache
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Common\obj\Production\GLib.Common.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Common\obj\Production\GLib.Common.pdb

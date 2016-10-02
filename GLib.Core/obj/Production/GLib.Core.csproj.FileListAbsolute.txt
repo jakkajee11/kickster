@@ -1,0 +1,5 @@
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\bin\Production\GLib.Core.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\bin\Production\GLib.Core.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Production\GLib.Core.csprojResolveAssemblyReference.cache
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Production\GLib.Core.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Production\GLib.Core.pdb

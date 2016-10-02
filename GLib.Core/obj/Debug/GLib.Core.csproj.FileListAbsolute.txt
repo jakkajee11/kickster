@@ -1,0 +1,10 @@
+D:\My Projects\visualstudio\KickOff\GLib.Core\bin\Debug\GLib.Core.dll
+D:\My Projects\visualstudio\KickOff\GLib.Core\bin\Debug\GLib.Core.pdb
+D:\My Projects\visualstudio\KickOff\GLib.Core\obj\Debug\GLib.Core.csprojResolveAssemblyReference.cache
+D:\My Projects\visualstudio\KickOff\GLib.Core\obj\Debug\GLib.Core.dll
+D:\My Projects\visualstudio\KickOff\GLib.Core\obj\Debug\GLib.Core.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\bin\Debug\GLib.Core.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\bin\Debug\GLib.Core.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Debug\GLib.Core.csprojResolveAssemblyReference.cache
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Debug\GLib.Core.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Core\obj\Debug\GLib.Core.pdb

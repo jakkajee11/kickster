@@ -1,0 +1,7 @@
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\bin\Debug\GLib.Extensions.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\bin\Debug\GLib.Extensions.pdb
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\obj\Debug\GLib.Extensions.csprojResolveAssemblyReference.cache
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\obj\Debug\GLib.Extensions.dll
+D:\Git\Projects\VisualStudio\Web\KickSter\GLib.Extensions\obj\Debug\GLib.Extensions.pdb
